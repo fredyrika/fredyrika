@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fredy
 - 👀 I’m interested in deducing insight from data
 - 🌱 I’m currently learning Applied Data science
-- 💞️ I’m looking to collaborate on anyone with better knowledge of data science and Business Intelligence
+- 💞️ I’m looking to collaborate with anyone with better knowledge of data science and Business Intelligence
 - 📫 How to reach me is via uzoechifrederick@gmail.com
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: Data 
