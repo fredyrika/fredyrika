@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fredyrika
+- 👋 Hi, I’m @fredy
 - 👀 I’m interested in deducing insight from data
 - 🌱 I’m currently learning Applied Data science
 - 💞️ I’m looking to collaborate on anyone with better knowledge of data science and Business Intelligence
